@@ -1,0 +1,10 @@
+.has-danger{
+    border-color: red;
+}
+.has-success{
+    border-color: green;
+}
+
+.showColor{
+    color:red;
+}

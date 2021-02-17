@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "headphone",
+      "description": "boat",
+      "price": "255",
+      "product_type": "2",
+      "id": 4
+    },
+    {
+      "name": "new",
+      "product_type": "new",
+      "description": "new",
+      "price": "45",
+      "id": 8
+    }
+  ]
+}

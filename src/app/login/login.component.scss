@@ -1,0 +1,37 @@
+.bckimg{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background-size: cover;
+    background-color: cadetblue;
+    background: url('./../../assets/images/bgimg.jpg');
+}
+
+.login-wrapper{
+    margin:8% auto;
+    width:20rem;
+}
+
+input{
+    margin-bottom: 2rem;
+}
+
+button{
+    margin-bottom: 2rem;
+}
+
+.backColorcl{
+    background-color: floralwhite;
+}
+
+
+.btn-primary{
+    color: #fff;
+    background-color: #007C01!important;
+    border-color: #007C01;
+}
+
+.alignText{
+    text-align: center;
+}
